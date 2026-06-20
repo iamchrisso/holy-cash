@@ -1,0 +1,35 @@
+name: Holy Cash Agent
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  preach:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install backend dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r backend/requirements.txt
+      - name: Generate feed post
+        run: python backend/run.py --write
+      - name: Commit feed update
+        run: |
+          git config user.name "holy-cash-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add frontend/feed.json
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "chore: add holy cash feed post"
+            git push
+          fi
