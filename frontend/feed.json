@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-07-02T19:49:50.970676+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. The sermon continues."
+    },
+    {
       "ts": "2026-07-02T14:27:20.122191+00:00",
       "text": "The faithful gather where liquidity meets conviction. Paper hands may confess; diamond hands may testify. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-06-20T00:00:00Z",
       "text": "The chapel is open. The chain is listening. Every holder may say AMEN."
-    },
-    {
-      "ts": "2026-06-20T00:05:00Z",
-      "text": "Faith is liquidity. Conviction is worship. The ledger remembers."
     }
   ]
 }
