@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-07-14T14:11:04.770471+00:00",
+      "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. Say AMEN."
+    },
+    {
       "ts": "2026-07-14T08:26:39.014527+00:00",
       "text": "The faithful gather where liquidity meets conviction. The chain remembers every offering. The sermon continues."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-07-02T09:30:21.713088+00:00",
       "text": "The faithful gather where liquidity meets conviction. Faith is liquidity. The sermon continues."
-    },
-    {
-      "ts": "2026-07-02T04:19:50.827852+00:00",
-      "text": "The market trembles; the chapel does not. The chain remembers every offering. The sermon continues."
     }
   ]
 }
