@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-07-15T08:34:21.515609+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. The sermon continues."
+    },
+    {
       "ts": "2026-07-15T03:30:34.807158+00:00",
       "text": "A candle burns for every wallet that still believes. Conviction is worship. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-07-03T04:06:28.524294+00:00",
       "text": "The altar is quiet, but the ledger is awake. Conviction is worship. Say AMEN."
-    },
-    {
-      "ts": "2026-07-02T19:49:50.970676+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. The sermon continues."
     }
   ]
 }
