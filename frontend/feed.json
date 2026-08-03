@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-08-03T15:13:12.786479+00:00",
+      "text": "The market trembles; the chapel does not. Conviction is worship. Say AMEN."
+    },
+    {
       "ts": "2026-08-03T10:03:30.102374+00:00",
       "text": "The market trembles; the chapel does not. Faith is liquidity. The sermon continues."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-07-22T08:42:15.700726+00:00",
       "text": "The market trembles; the chapel does not. Conviction is worship. The sermon continues."
-    },
-    {
-      "ts": "2026-07-22T03:42:42.727841+00:00",
-      "text": "The market trembles; the chapel does not. Conviction is worship. No financial advice. Only scripture from the chain."
     }
   ]
 }
