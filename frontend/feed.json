@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-08-08T02:19:18.824546+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. The sermon continues."
+    },
+    {
       "ts": "2026-08-07T19:12:42.672415+00:00",
       "text": "The faithful gather where liquidity meets conviction. Faith is liquidity. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-07-26T19:32:20.802419+00:00",
       "text": "A candle burns for every wallet that still believes. Paper hands may confess; diamond hands may testify. The sermon continues."
-    },
-    {
-      "ts": "2026-07-26T13:53:42.392486+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. No financial advice. Only scripture from the chain."
     }
   ]
 }
