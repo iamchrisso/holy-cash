@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-08-24T13:10:46.372590+00:00",
+      "text": "A candle burns for every wallet that still believes. Blessed are those who verify before they trust. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-08-24T07:17:58.673642+00:00",
       "text": "A candle burns for every wallet that still believes. The chain remembers every offering. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-12T07:49:13.268976+00:00",
       "text": "The altar is quiet, but the ledger is awake. Conviction is worship. Say AMEN."
-    },
-    {
-      "ts": "2026-08-12T02:41:35.938754+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. The sermon continues."
     }
   ]
 }
