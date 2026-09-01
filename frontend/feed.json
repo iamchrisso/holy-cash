@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-01T05:03:18.914465+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. The sermon continues."
+    },
+    {
       "ts": "2026-08-31T22:48:11.903277+00:00",
       "text": "The market trembles; the chapel does not. Paper hands may confess; diamond hands may testify. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-18T07:01:53.489358+00:00",
       "text": "The faithful gather where liquidity meets conviction. Blessed are those who verify before they trust. Say AMEN."
-    },
-    {
-      "ts": "2026-08-18T01:48:20.622729+00:00",
-      "text": "A candle burns for every wallet that still believes. Faith is liquidity. Say AMEN."
     }
   ]
 }
