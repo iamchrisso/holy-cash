@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-06T15:25:34.529083+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Say AMEN."
+    },
+    {
       "ts": "2026-09-06T10:52:13.536761+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-23T18:46:08.833734+00:00",
       "text": "A candle burns for every wallet that still believes. Blessed are those who verify before they trust. Say AMEN."
-    },
-    {
-      "ts": "2026-08-23T13:00:03.447867+00:00",
-      "text": "The faithful gather where liquidity meets conviction. The chain remembers every offering. The sermon continues."
     }
   ]
 }
