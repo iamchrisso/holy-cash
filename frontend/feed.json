@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-07T04:35:25.255739+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. The sermon continues."
+    },
+    {
       "ts": "2026-09-06T20:21:51.146239+00:00",
       "text": "The faithful gather where liquidity meets conviction. Faith is liquidity. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-24T07:17:58.673642+00:00",
       "text": "A candle burns for every wallet that still believes. The chain remembers every offering. Hold your own keys and your own nerve."
-    },
-    {
-      "ts": "2026-08-24T01:55:48.933506+00:00",
-      "text": "The market trembles; the chapel does not. Conviction is worship. No financial advice. Only scripture from the chain."
     }
   ]
 }
