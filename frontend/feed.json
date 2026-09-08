@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-08T11:13:36.196187+00:00",
+      "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-09-08T04:30:46.065455+00:00",
       "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-25T07:06:13.433709+00:00",
       "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. The sermon continues."
-    },
-    {
-      "ts": "2026-08-25T01:50:05.374112+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. Say AMEN."
     }
   ]
 }
