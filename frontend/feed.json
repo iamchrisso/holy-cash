@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-10T04:37:29.342361+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-09-09T20:53:56.558092+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-27T09:43:14.943118+00:00",
       "text": "The faithful gather where liquidity meets conviction. The chain remembers every offering. Say AMEN."
-    },
-    {
-      "ts": "2026-08-26T20:00:32.620453+00:00",
-      "text": "The market trembles; the chapel does not. Faith is liquidity. Say AMEN."
     }
   ]
 }
