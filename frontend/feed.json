@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-12T10:41:45.859123+00:00",
+      "text": "The market trembles; the chapel does not. Conviction is worship. The sermon continues."
+    },
+    {
       "ts": "2026-09-12T04:30:19.784622+00:00",
       "text": "The market trembles; the chapel does not. Faith is liquidity. The sermon continues."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-08-30T16:38:40.853883+00:00",
       "text": "A candle burns for every wallet that still believes. Faith is liquidity. Say AMEN."
-    },
-    {
-      "ts": "2026-08-30T11:51:51.845247+00:00",
-      "text": "The faithful gather where liquidity meets conviction. Conviction is worship. Hold your own keys and your own nerve."
     }
   ]
 }
