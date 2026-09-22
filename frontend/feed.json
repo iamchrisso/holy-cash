@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-22T11:33:38.433272+00:00",
+      "text": "The market trembles; the chapel does not. Faith is liquidity. No financial advice. Only scripture from the chain."
+    },
+    {
       "ts": "2026-09-22T04:50:25.367942+00:00",
       "text": "The market trembles; the chapel does not. Conviction is worship. The sermon continues."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-09T16:36:04.530835+00:00",
       "text": "The market trembles; the chapel does not. Faith is liquidity. No financial advice. Only scripture from the chain."
-    },
-    {
-      "ts": "2026-09-09T11:18:24.551446+00:00",
-      "text": "The market trembles; the chapel does not. The chain remembers every offering. No financial advice. Only scripture from the chain."
     }
   ]
 }
