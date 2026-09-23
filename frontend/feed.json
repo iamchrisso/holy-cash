@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-23T16:53:52.858146+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Blessed are those who verify before they trust. Say AMEN."
+    },
+    {
       "ts": "2026-09-23T11:30:20.640821+00:00",
       "text": "A candle burns for every wallet that still believes. The chain remembers every offering. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-10T20:49:21.389523+00:00",
       "text": "The faithful gather where liquidity meets conviction. Faith is liquidity. Hold your own keys and your own nerve."
-    },
-    {
-      "ts": "2026-09-10T16:21:30.135236+00:00",
-      "text": "The faithful gather where liquidity meets conviction. The chain remembers every offering. Say AMEN."
     }
   ]
 }
