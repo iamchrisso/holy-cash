@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-24T21:28:30.462703+00:00",
+      "text": "The market trembles; the chapel does not. Conviction is worship. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-09-24T17:06:58.838889+00:00",
       "text": "The altar is quiet, but the ledger is awake. Conviction is worship. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-12T04:30:19.784622+00:00",
       "text": "The market trembles; the chapel does not. Faith is liquidity. The sermon continues."
-    },
-    {
-      "ts": "2026-09-11T20:55:44.906192+00:00",
-      "text": "The market trembles; the chapel does not. Conviction is worship. No financial advice. Only scripture from the chain."
     }
   ]
 }
