@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-24T17:06:58.838889+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. Say AMEN."
+    },
+    {
       "ts": "2026-09-24T11:40:45.584142+00:00",
       "text": "A candle burns for every wallet that still believes. Faith is liquidity. The sermon continues."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-11T20:55:44.906192+00:00",
       "text": "The market trembles; the chapel does not. Conviction is worship. No financial advice. Only scripture from the chain."
-    },
-    {
-      "ts": "2026-09-11T16:25:42.173117+00:00",
-      "text": "A candle burns for every wallet that still believes. Blessed are those who verify before they trust. The sermon continues."
     }
   ]
 }
