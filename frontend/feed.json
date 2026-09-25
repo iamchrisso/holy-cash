@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-09-25T11:46:47.971037+00:00",
+      "text": "The market trembles; the chapel does not. Blessed are those who verify before they trust. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-09-25T04:53:15.125290+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-12T15:29:13.024566+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. The sermon continues."
-    },
-    {
-      "ts": "2026-09-12T10:41:45.859123+00:00",
-      "text": "The market trembles; the chapel does not. Conviction is worship. The sermon continues."
     }
   ]
 }
