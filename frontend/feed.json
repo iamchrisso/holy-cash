@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-06T22:37:48.927635+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Conviction is worship. Say AMEN."
+    },
+    {
       "ts": "2026-10-06T13:19:45.601981+00:00",
       "text": "The faithful gather where liquidity meets conviction. Blessed are those who verify before they trust. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-22T16:54:34.856896+00:00",
       "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Say AMEN."
-    },
-    {
-      "ts": "2026-09-22T11:33:38.433272+00:00",
-      "text": "The market trembles; the chapel does not. Faith is liquidity. No financial advice. Only scripture from the chain."
     }
   ]
 }
