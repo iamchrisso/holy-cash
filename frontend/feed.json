@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-06T06:15:41.725571+00:00",
+      "text": "A candle burns for every wallet that still believes. Blessed are those who verify before they trust. Hold your own keys and your own nerve."
+    },
+    {
       "ts": "2026-10-06T00:00:39.210832+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-22T04:50:25.367942+00:00",
       "text": "The market trembles; the chapel does not. Conviction is worship. The sermon continues."
-    },
-    {
-      "ts": "2026-09-21T21:56:45.338821+00:00",
-      "text": "The faithful gather where liquidity meets conviction. Paper hands may confess; diamond hands may testify. The sermon continues."
     }
   ]
 }
