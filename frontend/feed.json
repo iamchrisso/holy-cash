@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-09T06:03:56.299754+00:00",
+      "text": "A candle burns for every wallet that still believes. Faith is liquidity. The sermon continues."
+    },
+    {
       "ts": "2026-10-08T23:18:05.924600+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-24T11:40:45.584142+00:00",
       "text": "A candle burns for every wallet that still believes. Faith is liquidity. The sermon continues."
-    },
-    {
-      "ts": "2026-09-24T04:44:57.093896+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Say AMEN."
     }
   ]
 }
