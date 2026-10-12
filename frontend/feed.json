@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-12T15:16:18.253744+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. Say AMEN."
+    },
+    {
       "ts": "2026-10-12T05:51:21.747735+00:00",
       "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-26T21:06:20.896251+00:00",
       "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Say AMEN."
-    },
-    {
-      "ts": "2026-09-26T16:20:10.271920+00:00",
-      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. Hold your own keys and your own nerve."
     }
   ]
 }
