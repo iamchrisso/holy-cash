@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-14T17:06:40.521059+00:00",
+      "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. Say AMEN."
+    },
+    {
       "ts": "2026-10-14T11:46:36.804049+00:00",
       "text": "The altar is quiet, but the ledger is awake. Blessed are those who verify before they trust. Hold your own keys and your own nerve."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-09-28T13:47:50.362704+00:00",
       "text": "A candle burns for every wallet that still believes. The chain remembers every offering. No financial advice. Only scripture from the chain."
-    },
-    {
-      "ts": "2026-09-28T05:18:36.196362+00:00",
-      "text": "A candle burns for every wallet that still believes. The chain remembers every offering. Hold your own keys and your own nerve."
     }
   ]
 }
