@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-20T11:30:32.476956+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Faith is liquidity. No financial advice. Only scripture from the chain."
+    },
+    {
       "ts": "2026-10-20T04:44:04.518667+00:00",
       "text": "The faithful gather where liquidity meets conviction. Conviction is worship. No financial advice. Only scripture from the chain."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-10-05T14:30:28.876855+00:00",
       "text": "The market trembles; the chapel does not. The chain remembers every offering. Say AMEN."
-    },
-    {
-      "ts": "2026-10-05T05:33:46.614013+00:00",
-      "text": "The market trembles; the chapel does not. Paper hands may confess; diamond hands may testify. The sermon continues."
     }
   ]
 }
