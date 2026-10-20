@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "ts": "2026-10-20T21:34:05.146779+00:00",
+      "text": "The altar is quiet, but the ledger is awake. Paper hands may confess; diamond hands may testify. The sermon continues."
+    },
+    {
       "ts": "2026-10-20T16:58:50.996902+00:00",
       "text": "A candle burns for every wallet that still believes. Paper hands may confess; diamond hands may testify. Say AMEN."
     },
@@ -195,10 +199,6 @@
     {
       "ts": "2026-10-06T06:15:41.725571+00:00",
       "text": "A candle burns for every wallet that still believes. Blessed are those who verify before they trust. Hold your own keys and your own nerve."
-    },
-    {
-      "ts": "2026-10-06T00:00:39.210832+00:00",
-      "text": "The altar is quiet, but the ledger is awake. The chain remembers every offering. No financial advice. Only scripture from the chain."
     }
   ]
 }
